@@ -14,3 +14,8 @@ mount -a
 // mount từ host sang /mnt/hgfs/
 sudo vmhgfs-fuse .host:/ /mnt/hgfs/ -o allow_other -o uid=1000
 ```
+### install cross compile
+```script
+tar -xzvf 
+PATH=$PATH:/opt/FriendlyARM/toolschain/4.5.1/bin
+```
