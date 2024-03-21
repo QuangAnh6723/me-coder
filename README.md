@@ -1,7 +1,7 @@
 # me-coder
 ### Share folder linux
 
-```console
+```sh
 vmware-hgfsclient
 // Kiểm tra xem có thư mục được chia sẽ hay ko
 
